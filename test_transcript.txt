@@ -1,0 +1,522 @@
+WEBVTT
+
+1
+00:05:36.560 --> 00:05:39.130
+Ashok: Next up is Mohammed Suhail.
+
+2
+00:05:39.720 --> 00:05:41.559
+Ashok: Please state your update.
+
+3
+00:05:59.720 --> 00:06:01.910
+Ashok: Thank you, Mohammed Suhail.
+
+4
+00:06:02.720 --> 00:06:04.460
+Ashok: Next up is Nandana.
+
+5
+00:06:05.040 --> 00:06:06.869
+Ashok: Please state your update.
+
+6
+00:06:25.230 --> 00:06:26.720
+Ashok: Thank you, Nandana.
+
+7
+00:06:27.660 --> 00:06:29.350
+Ashok: Next up is Ashok.
+
+8
+00:06:29.960 --> 00:06:31.789
+Ashok: Please state your update.
+
+9
+00:06:50.170 --> 00:06:51.640
+Ashok: Thank you, Ashik.
+
+10
+00:21:40.040 --> 00:21:42.000
+Ashok: Next up is Joshua S.
+
+11
+00:21:42.550 --> 00:21:44.289
+Ashok: Please state your update.
+
+12
+00:22:06.430 --> 00:22:07.950
+Ashok: No response.
+
+13
+00:22:08.480 --> 00:22:11.109
+Ashok: Moving Josh S to the end of the queue.
+
+14
+00:22:13.990 --> 00:22:16.340
+Ashok: Next up is Sudanvan BS.
+
+15
+00:22:16.930 --> 00:22:18.730
+Ashok: Please state your update.
+
+16
+00:22:21.590 --> 00:22:24.860
+SUDHANVA B S: Hi, my name… Don't know what BS.
+
+17
+00:22:24.960 --> 00:22:28.909
+SUDHANVA B S: My ID is 2020618.
+
+18
+00:22:29.400 --> 00:22:36.229
+SUDHANVA B S: Today, I… I added the AI integration workflow, which has been developed by Docker.
+
+19
+00:22:37.640 --> 00:22:41.110
+SUDHANVA B S: And… I've been using the VSputer made a lot of the students.
+
+20
+00:22:41.110 --> 00:22:41.880
+Ashok: No response.
+
+21
+00:22:41.880 --> 00:22:43.100
+SUDHANVA B S: www.html.
+
+22
+00:22:43.100 --> 00:22:45.990
+Ashok: Moving Sudungvan BS to the end of the queue.
+
+23
+00:22:48.830 --> 00:22:50.899
+Ashok: Next up is Joshua S.
+
+24
+00:22:51.400 --> 00:22:53.230
+Ashok: Please state your update.
+
+25
+00:23:15.390 --> 00:23:17.619
+Ashok: Josh S did not respond.
+
+26
+00:23:18.110 --> 00:23:19.849
+Ashok: Marking as absent.
+
+27
+00:23:22.760 --> 00:23:25.079
+Ashok: Next up is Sudungvan BS.
+
+28
+00:23:25.670 --> 00:23:27.489
+Ashok: Please state your update.
+
+29
+00:23:32.940 --> 00:23:35.419
+SUDHANVA B S: Good afternoon, my name is Lonvo Bias.
+
+30
+00:23:36.010 --> 00:23:44.420
+SUDHANVA B S: I'm currently pursuing my trimester, and my ID is… 0, 0… 1820…
+
+31
+00:23:49.910 --> 00:23:52.360
+Ashok: Sudan Gun BS did not respond.
+
+32
+00:23:52.840 --> 00:23:54.579
+Ashok: Marking as absent.
+
+33
+00:23:57.510 --> 00:23:59.780
+Ashok: Next up is Gunga3S.
+
+34
+00:24:00.370 --> 00:24:02.210
+Ashok: Please state your update.
+
+35
+00:36:06.440 --> 00:36:08.810
+Ashok: Next up is Sudungvan BS.
+
+36
+00:36:09.380 --> 00:36:11.220
+Ashok: Please state your update.
+
+37
+00:36:33.440 --> 00:36:34.950
+Ashok: No response.
+
+38
+00:36:35.430 --> 00:36:38.500
+Ashok: Moving Sudungvan BS to the end of the queue.
+
+39
+00:36:41.350 --> 00:36:43.320
+Ashok: Next up is Joshua S.
+
+40
+00:36:43.910 --> 00:36:45.729
+Ashok: Please state your update.
+
+41
+00:37:03.070 --> 00:37:03.790
+josh s: I love…
+
+42
+00:37:08.100 --> 00:37:09.440
+Ashok: No response.
+
+43
+00:37:09.950 --> 00:37:12.599
+Ashok: Moving Josh Us to the end of the queue.
+
+44
+00:37:15.140 --> 00:37:15.760
+josh s: Hello?
+
+45
+00:37:15.760 --> 00:37:17.749
+Ashok: Next up is Sudung on BS.
+
+46
+00:37:18.340 --> 00:37:19.920
+Ashok: Please state your update.
+
+47
+00:37:20.330 --> 00:37:26.449
+josh s: I just heard Josh's, and I'm like, okay.
+
+48
+00:37:35.700 --> 00:37:37.099
+SUDHANVA B S: Let me start speaking.
+
+49
+00:37:37.220 --> 00:37:41.260
+SUDHANVA B S: Good morning, good afternoon, my name is Sudan Novias.
+
+50
+00:37:41.930 --> 00:37:42.790
+SUDHANVA B S: So, today…
+
+51
+00:37:42.790 --> 00:37:43.510
+Ashok: response.
+
+52
+00:37:43.510 --> 00:37:44.550
+SUDHANVA B S: ID is…
+
+53
+00:37:44.550 --> 00:37:47.430
+Ashok: Moving Sudungvan BS to the end of the queue.
+
+54
+00:37:50.280 --> 00:37:52.550
+Ashok: Next up is Gonga3S.
+
+55
+00:37:53.160 --> 00:37:54.979
+Ashok: Please state your update.
+
+56
+00:55:46.030 --> 00:55:47.970
+Ashok: Next up is Joshua S.
+
+57
+00:55:48.400 --> 00:55:51.749
+Ashok: Please state your batch ID and project update.
+
+58
+00:55:57.600 --> 00:55:58.770
+josh s: Hello.
+
+59
+00:56:01.390 --> 00:56:14.209
+josh s: Hello, hi, I'm Josh. My batch ID is 001863, and I've been doing, mock interviews, portal, where people.
+
+60
+00:56:14.210 --> 00:56:15.439
+Ashok: No response.
+
+61
+00:56:15.950 --> 00:56:18.589
+Ashok: Moving Joshu's to the end of the queue.
+
+62
+00:56:21.360 --> 00:56:23.779
+Ashok: Next up is Sudungvan BS.
+
+63
+00:56:24.380 --> 00:56:27.769
+Ashok: Please state your batch ID and project update.
+
+64
+00:56:28.190 --> 00:56:29.469
+josh s: He's in the waiting room.
+
+65
+00:56:31.160 --> 00:56:33.379
+josh s: He says he's in the waiting room.
+
+66
+00:56:34.250 --> 00:56:35.800
+josh s: Can't be joining.
+
+67
+00:56:36.990 --> 00:56:38.910
+Ashok: Thank you, Sudanbun BS.
+
+68
+00:56:39.500 --> 00:56:42.040
+Ashok: Please mute yourself or leave the meeting.
+
+69
+00:56:44.920 --> 00:56:46.910
+Ashok: Next up is Joshua S.
+
+70
+00:56:47.500 --> 00:56:50.889
+Ashok: Please state your batch ID and project update.
+
+71
+00:56:51.890 --> 00:56:56.849
+josh s: Hello, this is Josh. My batch ID is…
+
+72
+00:56:57.290 --> 00:57:13.700
+josh s: 110563, and my work summary is, I've been doing internship, mock internship portal, where people take interviews, and where I had to implement an AI bot, which takes in, like, a voice note.
+
+73
+00:57:13.700 --> 00:57:14.970
+Ashok: No response.
+
+74
+00:57:15.420 --> 00:57:17.809
+Ashok: Moving Josh's to the end of the queue.
+
+75
+00:57:17.810 --> 00:57:20.330
+josh s: in your Zoom meeting.
+
+76
+00:57:21.510 --> 00:57:23.690
+Ashok: Next up is Sudanbun BS.
+
+77
+00:57:24.280 --> 00:57:27.669
+Ashok: Please state your batch ID and project update.
+
+78
+00:57:31.700 --> 00:57:42.669
+SUDHANVA B S: Good morning, my name is Lenovo BS, my batch ID is 11022026, and my project, I'm working on the chatbot automation.
+
+79
+00:57:49.960 --> 00:57:51.300
+Ashok: No response.
+
+80
+00:57:51.820 --> 00:57:54.849
+Ashok: Moving Sudungvan BS to the end of the queue.
+
+81
+01:05:04.470 --> 01:05:06.459
+Ashok: Next up is Joshua's.
+
+82
+01:05:07.060 --> 01:05:10.429
+Ashok: Please state your batch ID and project update.
+
+83
+01:05:15.490 --> 01:05:28.160
+josh s: Hello, I'm Josh, my batch ID is 1104816. I've been working on mock interviews where I had to implement a chat AI bot.
+
+84
+01:05:28.760 --> 01:05:32.669
+josh s: And it, like, takes voice where I had to use whisper.
+
+85
+01:05:32.670 --> 01:05:35.120
+Ashok: Josh S did not respond twice.
+
+86
+01:05:35.590 --> 01:05:37.370
+Ashok: Marking as absent.
+
+87
+01:05:40.160 --> 01:05:42.489
+Ashok: Next up is Sudungvan BS.
+
+88
+01:05:43.080 --> 01:05:46.460
+Ashok: Please state your batch ID and project update.
+
+89
+01:05:47.580 --> 01:05:51.340
+SUDHANVA B S: less than… My name is Land Rob Biaz.
+
+90
+01:05:51.870 --> 01:05:54.099
+SUDHANVA B S: My batch ID is 1.
+
+91
+01:06:08.650 --> 01:06:11.269
+Ashok: Sudungvan Bs did not respond twice.
+
+92
+01:06:12.060 --> 01:06:13.469
+Ashok: Marking as absent.
+
+93
+01:06:13.470 --> 01:06:16.430
+SUDHANVA B S: So, this is my project, and…
+
+94
+01:11:19.530 --> 01:11:21.360
+Ashok: Next up is Joshua's.
+
+95
+01:11:21.940 --> 01:11:25.329
+Ashok: Please state your batch ID and project update.
+
+96
+01:11:29.520 --> 01:11:37.480
+josh s: Hello, my name is Josh. My batch ID is 112616.
+
+97
+01:11:37.700 --> 01:11:44.650
+josh s: And, my… work progress is that I've been working on AI chat
+
+98
+01:11:45.840 --> 01:11:53.459
+josh s: AI chatbot, where I had to implement that in, like, mock interviews, where people take interviews, and the AI…
+
+99
+01:11:53.560 --> 01:12:04.440
+josh s: We'll give the voice over, and it has to detect as to what they're saying, and calculate the scores, and give the result and the report back to them as to if they're selected or not.
+
+100
+01:12:05.000 --> 01:12:05.900
+josh s: Thank you.
+
+101
+01:21:16.300 --> 01:21:18.479
+Ashok: Next up is Sudanvan BS.
+
+102
+01:21:19.080 --> 01:21:22.840
+Ashok: Please state your batch ID and project update.
+
+103
+01:21:27.340 --> 01:21:29.470
+Ashok: Thank you, Sudungvun BS.
+
+104
+01:21:30.060 --> 01:21:32.589
+Ashok: Please mute yourself or leave the meeting.
+
+105
+01:21:34.780 --> 01:21:35.300
+josh s: Oh, isn't.
+
+106
+01:21:35.560 --> 01:21:37.739
+Ashok: Next up is Sudungvan BS.
+
+107
+01:21:38.320 --> 01:21:41.709
+Ashok: Please state your batch ID and project update.
+
+108
+01:21:43.050 --> 01:21:43.760
+SUDHANVA B S: Good afternoon.
+
+109
+01:21:43.760 --> 01:21:44.799
+Ashok: Thank you, Subambun.
+
+110
+01:21:44.800 --> 01:21:50.790
+SUDHANVA B S: My batch ID is one where… Huh?
+
+111
+01:21:51.290 --> 01:21:52.260
+SUDHANVA B S: Next up…
+
+112
+01:21:52.260 --> 01:21:53.590
+Ashok: Up is Joshua's.
+
+113
+01:21:54.190 --> 01:21:57.560
+Ashok: Please state your batch ID and project update.
+
+114
+01:21:58.310 --> 01:22:04.410
+josh s: Hello, hi, my name is Josh. My batch ID is 00122616.
+
+115
+01:22:04.530 --> 01:22:08.160
+Ashok: The work summary is that… Thank you, Josh Urs.
+
+116
+01:22:08.740 --> 01:22:11.280
+Ashok: Please mute yourself or leave the meeting.
+
+117
+01:22:14.100 --> 01:22:16.090
+Ashok: Next up is Joshua S.
+
+118
+01:22:16.690 --> 01:22:20.149
+Ashok: Please state your batch ID and project update.
+
+119
+01:22:20.150 --> 01:22:21.070
+josh s: No.
+
+120
+01:22:24.180 --> 01:22:25.060
+josh s: Hello?
+
+121
+01:22:26.550 --> 01:22:27.340
+josh s: Boom.
+
+122
+01:30:01.140 --> 01:30:03.310
+Ashok: Next up is Sudanvan BS.
+
+123
+01:30:03.900 --> 01:30:05.719
+Ashok: Please state your update.
+
+124
+01:30:08.410 --> 01:30:24.259
+SUDHANVA B S: Good afternoon, my name is Gunwa BS. My batch ID is 1102026, and today my project would be the automation of the chatbot, which I've been built, it has the same, like, chat GPT thing, which has a dark theme, and which this is stored.
+
+125
+01:30:24.260 --> 01:30:25.820
+Ashok: use to help on V-Test.
+
+126
+01:30:26.600 --> 01:30:28.940
+Ashok: Next up is Sudungbun BS.
+
+127
+01:30:29.520 --> 01:30:31.329
+Ashok: Please state your update.
+
+128
+01:30:32.020 --> 01:30:33.450
+SUDHANVA B S: Again, the butter.
+
+129
+01:37:46.590 --> 01:37:48.409
+Ashok: Next up is Joshua S.
+
+130
+01:37:48.990 --> 01:37:52.390
+Ashok: Please state your batch ID and project update.
+
